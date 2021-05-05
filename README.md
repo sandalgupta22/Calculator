@@ -11,7 +11,7 @@ This is a simple calulator app which can perform different operations between nu
 ### How to Run the App : 
 
 * Download the code.
-* **Run the code and Enjoy**
+* **Run the code in Pycharm.**
 
 ## External modules/dependencies :
 
